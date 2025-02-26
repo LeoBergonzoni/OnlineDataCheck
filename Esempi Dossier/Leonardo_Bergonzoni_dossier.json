@@ -1,0 +1,39 @@
+{
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/search/results/people/?keywords=Leonardo%20Bergonzoni",
+      "icon": "Linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/search?q=Leonardo%20Bergonzoni",
+      "icon": "Twitter"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/public/Leonardo-Bergonzoni",
+      "icon": "Facebook"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/leonardobergonzoni",
+      "icon": "Instagram"
+    }
+  ],
+  "newsResults": [
+    {
+      "title": "Latest news about Leonardo Bergonzoni",
+      "url": "https://news.google.com/search?q=Leonardo%20Bergonzoni",
+      "source": "Google News",
+      "publishedAt": "2025-02-26T17:43:25.635Z"
+    },
+    {
+      "title": "Leonardo Bergonzoni in the media",
+      "url": "https://www.bing.com/news/search?q=Leonardo%20Bergonzoni",
+      "source": "Bing News",
+      "publishedAt": "2025-02-26T17:43:25.637Z"
+    }
+  ],
+  "personalInfo": null
+}

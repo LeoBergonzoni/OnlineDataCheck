@@ -1,0 +1,94 @@
+
+    <html xmlns:o='urn:schemas-microsoft-com:office:office' 
+          xmlns:w='urn:schemas-microsoft-com:office:word'
+          xmlns='http://www.w3.org/TR/REC-html40'>
+    <head>
+      <meta charset="utf-8">
+      <title>Dossier Personale: Leonardo Bergonzoni</title>
+      <!--[if gte mso 9]>
+      <xml>
+        <w:WordDocument>
+          <w:View>Print</w:View>
+          <w:Zoom>100</w:Zoom>
+          <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+      </xml>
+      <![endif]-->
+      <style>
+        body { font-family: 'Calibri', sans-serif; }
+        h1 { color: #333; }
+        h2 { color: #444; margin-top: 20px; }
+        table { border-collapse: collapse; width: 100%; margin: 10px 0 20px 0; }
+        th { background-color: #f2f2f2; text-align: left; padding: 8px; border: 1px solid #ddd; }
+        td { padding: 8px; border: 1px solid #ddd; }
+        .disclaimer { font-size: 10px; color: #666; margin-top: 30px; }
+        a { color: #0066cc; }
+      </style>
+    </head>
+    <body>
+      <h1>Dossier Personale: Leonardo Bergonzoni</h1>
+      <p>Generato il: 26/02/2025</p>
+      
+      <h2>Account Social</h2>
+      <table>
+        <tr>
+          <th>Piattaforma</th>
+          <th>Link</th>
+        </tr>
+        
+          <tr>
+            <td>LinkedIn</td>
+            <td><a href="https://linkedin.com/search/results/people/?keywords=Leonardo%20Bergonzoni" target="_blank">https://linkedin.com/search/results/people/?keywords=Leonardo%20Bergonzoni</a></td>
+          </tr>
+        
+          <tr>
+            <td>Twitter</td>
+            <td><a href="https://twitter.com/search?q=Leonardo%20Bergonzoni" target="_blank">https://twitter.com/search?q=Leonardo%20Bergonzoni</a></td>
+          </tr>
+        
+          <tr>
+            <td>Facebook</td>
+            <td><a href="https://facebook.com/public/Leonardo-Bergonzoni" target="_blank">https://facebook.com/public/Leonardo-Bergonzoni</a></td>
+          </tr>
+        
+          <tr>
+            <td>Instagram</td>
+            <td><a href="https://instagram.com/leonardobergonzoni" target="_blank">https://instagram.com/leonardobergonzoni</a></td>
+          </tr>
+        
+      </table>
+      
+      <h2>Notizie</h2>
+      <table>
+        <tr>
+          <th>Titolo</th>
+          <th>Fonte</th>
+          <th>Data</th>
+          <th>Link</th>
+        </tr>
+        
+          <tr>
+            <td>Latest news about Leonardo Bergonzoni</td>
+            <td>Google News</td>
+            <td>26/02/2025</td>
+            <td><a href="https://news.google.com/search?q=Leonardo%20Bergonzoni" target="_blank">Visita</a></td>
+          </tr>
+        
+          <tr>
+            <td>Leonardo Bergonzoni in the media</td>
+            <td>Bing News</td>
+            <td>26/02/2025</td>
+            <td><a href="https://www.bing.com/news/search?q=Leonardo%20Bergonzoni" target="_blank">Visita</a></td>
+          </tr>
+        
+      </table>
+      
+      <h2>Informazioni Personali</h2>
+      
+        <p>Nessuna informazione personale trovata</p>
+      
+      
+      <p class="disclaimer">Nota: Questo è un dossier dimostrativo. In un'applicazione reale, sarebbero utilizzate API come Google Custom Search per trovare informazioni più accurate.</p>
+    </body>
+    </html>
+  
