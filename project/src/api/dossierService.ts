@@ -5,7 +5,7 @@ import 'jspdf-autotable';
 import { saveAs } from 'file-saver';
 
 // This would be stored securely in environment variables in a real application
-const GOOGLE_API_KEY = 'AIzaSyBKtzT-1zkRt0Jed3EnKeP1P0R2BxSqhhM';
+const GOOGLE_API_KEY = 'GOOGLE_API_KEY';
 
 // Mock function to simulate finding social media profiles
 const findSocialMediaProfiles = async (userData: UserData): Promise<SocialLink[]> => {
